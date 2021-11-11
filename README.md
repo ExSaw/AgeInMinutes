@@ -10,7 +10,7 @@
     <img src=https://user-images.githubusercontent.com/86077011/122677313-4801b500-d1fb-11eb-89b8-276c3633ef32.png alt="Logo" width="100" height="160">
   </a>
 
-  <h3 align="center">GDX Fifteen</h3>
+  <h3 align="center">Age In Minutes App</h3>
 
   <p align="center">
   <!--
@@ -67,14 +67,10 @@
 
 ![photo_2021-11-11_15-55-43](https://user-images.githubusercontent.com/86077011/141287899-6a97e27d-bae9-46f1-8dcc-9c73fe4ac52c.jpg)
 
-
-Simple old game from childhood.
+The app that converts your current Age in years to minutes.
 
 ### Built With
-* [Java](https://www.java.com)
-* [libGDX](https://libgdx.com)
-<!-- * [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language) -->
-* [OpenGL ES 2.0](https://www.opengl.org)
+* [Kotlin](https://kotlinlang.org)
 
 
 <!-- GETTING STARTED -->
@@ -152,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Chudov Alex (RickRip) - usatu.robotics@gmail.com <img alt="Gmail" src="https://img.shields.io/badge/My Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
-Project Link: [https://github.com/ExSaw/GDX_Fifteen](https://github.com/ExSaw/GDX_Fifteen)
+Project Link: [https://github.com/ExSaw/AgeInMinutes](https://github.com/ExSaw/AgeInMinutes)
 
 <!-- CONTACT -->
 <!--
