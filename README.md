@@ -64,8 +64,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![photo_2021-11-11_15-55-43](https://user-images.githubusercontent.com/86077011/141287899-6a97e27d-bae9-46f1-8dcc-9c73fe4ac52c.jpg)
+![photo_2021-11-11_15-55-44](https://user-images.githubusercontent.com/86077011/141289810-42320e5f-679f-4860-bee5-3b7c7d963c41.jpg)
+![photo_2021-11-11_15-55-45](https://user-images.githubusercontent.com/86077011/141289814-31b12261-ec37-4eee-8dcc-a8abc80a8830.jpg)
+![photo_2021-11-11_15-55-46](https://user-images.githubusercontent.com/86077011/141289816-65719c79-8ad5-4c8e-89b9-0a09ba45f7fc.jpg)
 
 The app that converts your current Age in years to minutes.
 
