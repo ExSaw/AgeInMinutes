@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ваш возраст в минутах</string>
+    <string name="label1">РАСЧИТАЙ СВОЙ</string>
+    <string name="label2">ВОЗРАСТ</string>
+    <string name="label3">В МИНУТАХ</string>
+    <string name="label4">ВЫБРАТЬ ДАТУ</string>
+    <string name="label5">Выбранная Дата</string>
+    <string name="error1">Выбрана неверная дата</string>
+    <string name="label7">Возраст в днях</string>
+    <string name="label8">Возраст в минутах</string>
+    <string name="label6">Возраст в годах</string>
+</resources>
